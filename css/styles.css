@@ -1,0 +1,85 @@
+body {
+	background-color: #ded6cb;
+}
+
+.container {
+	margin-left: 300px;
+	margin-top: 50px;
+
+}
+
+.card-product {
+	background-color: #fff;
+	border-radius: 20px;
+	width: 360px;
+	height: 520px;
+	/*display: inline-block;*/
+	position: relative;
+	float: left;
+}
+
+.paiment {
+	background-color: #bda27d;
+	width: 260px;
+	height: 420px;
+	display: inline-block;
+	border-radius: 0px 20px 20px 0px;
+	margin-left: -10px;
+	margin-top: 50px;
+
+}
+.visa {
+	width: 66px;
+	height: 21px;
+	margin-top: 10px;
+	margin-left: 180px;
+}
+
+.purshasing {
+	text-transform: uppercase;
+	font-family: cocomat;
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 5px;
+	margin-top: 20px;
+}
+.titleProduct {
+	font-family: cocomat;
+	font-size: 45px;
+	text-align: center;
+	margin-top: 1px;
+}
+
+.mask {
+	margin-top: -130px;
+}
+
+.price {
+	font-family: century Gothic;
+	color: #bda27d;
+	text-align: center;
+	font-size: 30px;
+}
+
+.paymenttitle {
+	font-family: cocomat;
+	color: rgba(255, 255, 255, 0.7);
+	font-size: 16px;
+	text-align: center;
+
+}
+
+.paymentdetail {
+	font-family: century gothic;
+	font-size: 20px;
+	margin-top: -5px;
+	text-align: center;
+	color: #fff;
+
+}
+.hr {
+	color: rgba(255, 255, 255, 0.7);
+	margin-top: -15px;
+	margin-bottom: 25px;
+	width: 80%
+}
